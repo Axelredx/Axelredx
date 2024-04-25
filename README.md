@@ -7,6 +7,8 @@
   <li><strong>E-mail => </strong>alex.rossi7@studio.unibo.it;</li>
   <li><strong>@ig => </strong>alex_rossi_10;</li>
 </ul>
+Don't forget to <b>star</b> the repository! ✨
+<p></p>
 <img alt="me replaced :(" src="https://cdn1.expresscomputer.in/wp-content/uploads/2021/03/24161745/EC_Artificial_Intelligence_AI_750.jpg" >
 
 <!---

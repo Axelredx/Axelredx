@@ -6,6 +6,7 @@
 <ul>
   <li><strong>E-mail => </strong>alex.rossi7@studio.unibo.it;</li>
   <li><strong>@ig => </strong>alex_rossi_10;</li>
+  <li><strong>My site =></strong> https://axelredx.github.io/PersonalWebsite/</li>
 </ul>
 Don't forget to <b>star</b> the repository! ✨
 <p></p>

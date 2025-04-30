@@ -1,14 +1,14 @@
 <h1>Hello world!</h1>
 - 👋 Hi, I’m Alex; <br>
-- 👀 I’m interested in Tech; <br>
+- 👀 Currently trying to fight against bugs, tellying computers what to do or chatting with (not so) friendly AI; <br>
 - 🌱 I’m currently learning Computer Science at Alma Mater Studiorum, University of Bologna, Italy. <br>
 -📫 How to reach me:
 <ul>
   <li><strong>E-mail => </strong>alex.rossi7@studio.unibo.it;</li>
-  <li><strong>@ig => </strong>alex_rossi_10;</li>
-  <li><strong>My site =></strong> https://alexrossi.netlify.app/</li>
+  <li><strong>@ig => </strong>@alex_rossi_10;</li>
+  <li><strong>My site (probably deprecated ;) )=></strong> https://alexrossi.netlify.app/</li>
 </ul>
-Don't forget to <b>star</b> the repository! ✨
+Don't forget to <b>star</b> the repos! ✨
 <p></p>
 <img alt="me replaced :(" src="https://cdn1.expresscomputer.in/wp-content/uploads/2021/03/24161745/EC_Artificial_Intelligence_AI_750.jpg" >
 

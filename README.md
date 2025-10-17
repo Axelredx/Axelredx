@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Computer Science at Alma Mater Studiorum, University of Bologna, Italy. <br>
 -📫 How to reach me:
 <ul>
-  <li><strong>E-mail => </strong>info.alexrossi.10@gmail.com;</li>
-  <li><strong>@ig => </strong>@alex_rossi_10;</li>
+  <li><strong>E-mail => </strong>info.alexrossi.10@gmail.com</li>
+  <li><strong>@ig => </strong>@alex_rossi_10</li>
   <!---<li><strong>My site (probably deprecated ;) )=></strong> https://alexrossi.netlify.app/</li>--->
 </ul>
 Don't forget to <b>star</b> the repos! ✨

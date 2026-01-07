@@ -5,7 +5,7 @@
 - 🌱 Now pursuing MSc in System & Networks (Computer Science). <br>
 -📫 How to reach me:
 <ul>
-  <li><strong>LinkedIn => </strong>alex.rossi.info10</li>
+  <li><strong>LinkedIn => </strong>alex-rossi-red</li>
   <li><strong>E-mail => </strong>alex.rossi.info10@gmail.com</li>
   <li><strong>@ig => </strong>@alex_rossi_10</li>
   <!---<li><strong>My site (probably deprecated ;) )=></strong> https://alexrossi.netlify.app/</li>--->

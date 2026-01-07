@@ -6,7 +6,7 @@
 -📫 How to reach me:
 <ul>
   <li><strong>LinkedIn => </strong>alex.rossi.info10</li>
-  <li><strong>E-mail => </strong>info.alexrossi.10@gmail.com</li>
+  <li><strong>E-mail => </strong>alex.rossi.info10@gmail.com</li>
   <li><strong>@ig => </strong>@alex_rossi_10</li>
   <!---<li><strong>My site (probably deprecated ;) )=></strong> https://alexrossi.netlify.app/</li>--->
 </ul>

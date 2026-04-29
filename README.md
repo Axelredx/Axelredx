@@ -7,7 +7,7 @@
 <ul>
   <li><strong>LinkedIn => </strong>alex-rossi-red</li>
   <li><strong>E-mail => </strong>alex.rossi.info10@gmail.com</li>
-  <li><strong>@ig => </strong>@alex_rossi_10</li>
+   <!---<li><strong>@ig => </strong>@alex_rossi_10</li>--->
   <!---<li><strong>My site (probably deprecated ;) )=></strong> https://alexrossi.netlify.app/</li>--->
 </ul>
 Don't forget to <b>star</b> the repos! ✨
